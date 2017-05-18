@@ -44,12 +44,6 @@ def get_cci(df):
 		i = i+1;		
 	return df
 
-#def interpolate(i,df):
-#	y1 = df.at[i,'Open'];
-#	y2 = df.at[i,'High'];
-#	y3 = df.at[i,'Close'];
-	
-	
 	
 def strategy3(df):
 	i = 1;
